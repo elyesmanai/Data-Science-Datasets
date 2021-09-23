@@ -42,7 +42,8 @@ Saida,BISCUITS,MAJOR FRAISE,	448Kcal,"	18,6g",-,"67,6g",-,5g,-,-
 Saida,CHOCOLAT,KROSS ,	448Kcal,"	15,5g",-,"	72,3g",-,"	4,9g",-,-
 Saida,CHOCOLAT,MAESTRO CLUB CARAMEL,	460Kcal,-,-,"	51,96g",-,"	6,78g",-,-
 Saida,CHOCOLAT,DUO,	467Kcal,	19g,-,	67g,-,"	5,76g",-,-
-Saida,BISCUITS,TARTELETTES SAÏDA CHOCOLAT,	470Kcal,"	27,4g",-,"65,5g",-,"5,6g",-,-
+Saida,BISCUITS,TARTELETTES SAÏDA CHOCOLAT,	470Kcal,"	27,4g",-,"65,5g",-,"5,6g
+",-,-
 Saida,BISCUITS,TUNGO,	470Kcal,"22,1g",-,	62g,-,"	5,9g",-,-
 Saida,CHOCOLAT,DCLIC,	477Kcal,	20g,-,"	68,3g",-,"	5,88g",-,-
 Saida,BISCUITS,GAUFRETTES SAÏDA CHOCOLAT,	483Kcal,"	28,2g",-,"	62,9g",-,"	5,3g",-,-
@@ -55,8 +56,10 @@ Saida,BISCUITS,PRINCE FOURRÉ VANILLE,	492Kcal,"	23,6g",-,"	65,2g",-,"	4,9g",-,-
 Saida,BISCUITS,COOKIES AUX PÉPITES DE CHOCOLAT,	496 Kcal,"	23,62 g","12,19 g","	62,56 g","	34,07 g","	6,70 g","0,174 g",17g
 Saida,CHOCOLAT,MAESTRO TESORO,"	497,28Kcal","30,6g",-,"	46,8g",-,"	10,33g",-,-
 Saida,CHOCOLAT,SENSATION LIGHT,"	497,4Kcal","	34,6g",-,	15g,-,"7,8g",-,-
-Saida,BISCUITS,GAUFRETTES SAÏDA FRAISE,	514Kcal,"29,8g",-,"63,6g",-,"	4,1g",-,-
-Saida,BISCUITS,GAUFRETTES SAÏDA VANILLE,	514Kcal,"29,8g",-,"63,6g",-,"	4,1g",-,-
+Saida,BISCUITS,GAUFRETTES SAÏDA FRAISE,	514Kcal,"29,8g
+",-,"63,6g",-,"	4,1g",-,-
+Saida,BISCUITS,GAUFRETTES SAÏDA VANILLE,	514Kcal,"29,8g
+",-,"63,6g",-,"	4,1g",-,-
 Saida,BISCUITS,CROUSTINA CHOCOLAT 100G,	517Kcal,"	31,5g",-,"	54,8g",-,"3,41g",-,-
 Saida,BISCUITS,LOOPI AU CHOCOLAT,	519 Kcal,"26,22 g","17,94 g","62,55 g","	49,11 g","	8,18 g","	0,150 g",6g
 Saida,CHOCOLAT,MAESTRO CLUB CORNFLAKES,	523Kcal,	29g,-,	58g,-,7g,-,-
@@ -106,7 +109,8 @@ Saida,BISCUITS,SSE CACAOTÉ ,368 Kcal,"	10,36 g	","5,3 g","60,98 g	","	23,62 g",
 Saida,CHOCOLAT,CHOCOLINE,"371,6Kcal","16,5g",-,"51,15g",-,"	4,6g",-,120g / 13 g
 Saida,BISCUITS,BEIGNET SAÏDA,"371,97 Kcal","20,15 g","	6,23 g","	42,38 g","	24,54 g","	5,23 g","	0,084 g",55g
 Saida,CHOCOLAT,FALFOUL DINOSAURES,373Kcal,"0,1g",-,"93,15g",-,"0,37g",-,-
-Saida,BISCUITS,SAÏDA SUPER EXTRA,395Kcal,"10,6g",-,"68,8g",-,"6,1g",-,-
+Saida,BISCUITS,SAÏDA SUPER EXTRA,395Kcal,"10,6g
+",-,"68,8g",-,"6,1g",-,-
 Saida,BISCUITS,NATURE AU BEURRE,395Kcal,"	13,61g",-,"59,64g",-,"	6,83g",-,-
 Saida,BISCUITS,MUFFIN SAÏDA,"397,84 Kcal","	23,15 g",-,"	52,55 g",-,"	6,00 g","0,269 g",55g
 Saida,BISCUITS,BROWNIE SAÏDA,"402,71 Kcal","	27,64 g",-,"46,87 g",-,"5,29 g","0,279 g",55g
@@ -114,9 +118,13 @@ Saida,BISCUITS,SAÏDA AUX 6 CÉRÉALES,409Kcal,15g,-,"62,3g",-,"	6,3g",-,-
 Saida,BISCUITS,TARTELETTES SAÏDA FRAMBOISE,458Kcal,17g,-,"68,3g",-,"	4,8g",-,-
 Saida,BISCUITS,BISCUITS TRADITION KAAK ,462Kcal,"	19,6g",-,	65g,-,"6,5g",-,-
 Saida,BISCUITS,PRINCE FOURRÉ CHOCOLAT,"473,5Kcal","	22,3g",-,"63,3g",-,"4,9g",-,-
-Saida,BISCUITS,TOFFEE-NOIX DE COCO,"479,64Kcal","	28,96g",-,"59,44g",-,"	4,05g",-,-
+Saida,BISCUITS,TOFFEE-NOIX DE COCO,"479,64Kcal
+","	28,96g",-,"59,44g",-,"	4,05g",-,-
 Saida,BISCUITS,COOKIES CACAOTÉS AUX PÉPITES DE CHOCOLAT,495 Kcal,"24,58 g","	14,51 g","60,29 g	","34,77 g","	6,73 g","	0,139 g",17g
-Saida,BISCUITS,GAUFRETTES SAÏDA NOISETTES,"506Kcal","29,6g",-,"63,4g",-,"4,3g",-,-
+Saida,BISCUITS,GAUFRETTES SAÏDA NOISETTES,"506Kcal
+","29,6g
+",-,"63,4g
+",-,"4,3g",-,-
 Saida,BISCUITS,GAUFRETTES SAÏDA CITRON,514Kcal,"	29,8g",-,"	63,6g",-,"4,1g",-,-
 Saida,BISCUITS,CROUSTINA CHOCOLAT 33G,517Kcal,"	31,5g",-,"54,8g",-,"	3,41g",-,33g
 Saida,BISCUITS,CRÊPES D'OR,519 Kcal,"26,22 g","17,94 g","62,55 g","	49,11 g","8,18 g","0,150 g",6g
