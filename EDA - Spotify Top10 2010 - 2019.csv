@@ -1,5 +1,5 @@
 "","title","artist","top genre","year","bpm","nrgy","dnce","dB","live","val","dur","acous","spch","pop"
-"1","Hey, Soul Sister","Train","neo mellow",2010,97,89,67,-4,8,80,217,19,4,83
+"1","Hey, Soul Sister","Train","neo mellow",2010,97,89,67,-4,8,80,217,19,4,1000
 "2","Love The Way You Lie","Eminem","detroit hip hop",2010,87,93,75,-5,52,64,263,24,23,82
 "3","TiK ToK","Kesha","dance pop",2010,120,84,76,-3,29,71,200,10,14,80
 "4","Bad Romance","Lady Gaga","dance pop",2010,119,92,70,-4,8,71,295,0,4,79
@@ -15,7 +15,7 @@
 "14","Telephone","Lady Gaga","dance pop",2010,122,83,83,-6,11,71,221,1,4,73
 "15","Like A G6","Far East Movement","dance pop",2010,125,84,44,-8,12,78,217,1,45,72
 "16","OMG (feat. will.i.am)","Usher","atl hip hop",2010,130,75,78,-6,36,33,269,20,3,72
-"17","Eenie Meenie","Sean Kingston","dance pop",2010,121,61,72,-4,11,83,202,5,3,71
+"17","Eenie Meenie","Sean Kingston","dance pop",2010,,61,72,-4,11,83,202,5,3,71
 "18","The Time (Dirty Bit)","The Black Eyed Peas","dance pop",2010,128,81,82,-8,60,44,308,7,7,70
 "19","Alejandro","Lady Gaga","dance pop",2010,99,80,63,-7,36,37,274,0,5,69
 "20","Your Love Is My Drug","Kesha","dance pop",2010,120,61,83,-4,9,76,187,1,10,69
@@ -25,6 +25,7 @@
 "24","Misery","Maroon 5","pop",2010,103,81,70,-5,22,73,216,0,4,65
 "25","All The Right Moves","OneRepublic","dance pop",2010,146,95,53,-4,28,65,238,26,5,65
 "26","Animal","Neon Trees","indie pop",2010,148,83,48,-6,38,74,212,0,4,65
+"27","Naturally","Selena Gomez & The Scene","dance pop",2010,133,90,61,-5,5,88,203,2,5,64
 "27","Naturally","Selena Gomez & The Scene","dance pop",2010,133,90,61,-5,5,88,203,2,5,64
 "28","I Like It","Enrique Iglesias","dance pop",2010,129,94,65,-3,6,73,231,2,9,63
 "29","Teenage Dream","Katy Perry","dance pop",2010,120,80,72,-5,13,59,228,2,4,63
